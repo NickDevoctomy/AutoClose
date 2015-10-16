@@ -1,5 +1,7 @@
 # AutoClose
 
+[![Build status](https://ci.appveyor.com/api/projects/status/lxf9tx1222i28wvb?svg=true)](https://ci.appveyor.com/project/NickDevoctomy/autoclose)
+
 A Windows application that aids in protecting the privacy of the user when the system comes out of a sleep state.
 
 ## Overview
